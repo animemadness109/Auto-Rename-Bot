@@ -75,7 +75,7 @@ see_caption - see your custom caption.
 del_caption - delete custom caption.
 restart - To restart the bot [FOR ADMINS USE ONLY]
 broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
-status - Check bot status [FOR ADMINS USE ONLY].
+status - Check bot status [FOR ADMINS USE ONLY].   s
 ```
 
 
